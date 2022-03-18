@@ -105,9 +105,9 @@ print(page)
 
 ![](https://www.mp3quran.net/api/quran_pages_arabic/601.png)
 
-~~~
-get radios by language:
 
+### get radios by language:
+~~~
 from quran_suras import QuranSuras
 
 quran_suras = QuranSuras()
