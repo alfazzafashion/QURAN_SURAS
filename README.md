@@ -6,6 +6,7 @@ A python [method](https://codeberg.org/Awiteb/quran_suras/src/branch/master/qura
 
 Libraries: [quran-suras](https://libraries.io/pypi/quran-suras)
 License: [GNU General Public License v3 (GPLv3)](#LICENSE)
+Author: [Awiteb](mailto:Awiteb@hotmail.com)
 
 [Hashes](https://pip.pypa.io/en/stable/cli/pip_install/#hash-checking-mode) for quran_suras-1.1.4-py3-none-any.whl
 | Algorithm 	| Hash digest |
@@ -13,6 +14,8 @@ License: [GNU General Public License v3 (GPLv3)](#LICENSE)
 | SHA256		| 838914d88f4d20890ce81eab5de156654be1ed069ab40638c0579b6e77eb9e57 |
 | MD5			| ecef13e418d8a36a4669858eb849916e |
 | BLAKE2-256	| 84d484c9f94856589e009b6c7b39e7b476ba5a6c59d0953cc0e8eb199c704625 |
+
+[listen stream](live.mp3quran.net:9702).
 
 ## Installation
 Use the package manager pip to install quran_suras.
@@ -142,7 +145,3 @@ print(radios)
   ]
 }
 ~~~
-
-[listen stream](live.mp3quran.net:9702) .
-
-## Author: [Awiteb](mailto:Awiteb@hotmail.com)
