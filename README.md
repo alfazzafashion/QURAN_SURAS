@@ -18,9 +18,9 @@ Features
 * get islamic radio url by language
 
 ## Usage
-you can find examples [here]()
+you can find examples [here](https://github.com/alfazzafashion/quran_suras/tree/main/modules)
 
-get surah by number:
+## get surah by number:
 ~~~
 from quran_suras import QuranSuras
 
@@ -42,7 +42,7 @@ print(suras)
 }
 ~~~
 
-get surah by name:
+## get surah by name:
 ~~~
 from quran_suras import QuranSuras
 
@@ -64,7 +64,7 @@ print(suras)
 }
 ~~~
 
-get surah name by number:
+## get surah name by number:
 ~~~
 from quran_suras import QuranSuras
 
@@ -79,7 +79,7 @@ print(sura_name)
 الغاشية
 ~~~
 
-get surah number by name:
+## get surah number by name:
 ~~~
 from quran_suras import QuranSuras
 
@@ -94,7 +94,7 @@ print(sura_number)
 27
 ~~~
 
-get page from quran by page number:
+## get page from quran by page number:
 ~~~
 from quran_suras import QuranSuras
 
@@ -105,7 +105,7 @@ print(page)
 
 ### Example Result
 
-https://www.mp3quran.net/api/quran_pages_arabic/601.png
+![](https://www.mp3quran.net/api/quran_pages_arabic/601.png)
 
 ~~~
 get radios by language:
