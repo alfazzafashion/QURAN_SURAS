@@ -20,12 +20,12 @@ Use the package manager pip to install quran_suras.
 pip3 install quran_suras
 ~~~
 Features
-* get surah by number
-* get surah by name
-* get surah name by number
-* get surah number by name
-* get quran page url by number
-* get islamic radio url by language
+* [get surah by number](/modules/get_sura_by_number.py)
+* [get surah by name](/modules/get_sura_by_name.py)
+* [get surah name by number](/modules/get_sura_number.py)
+* [get surah number by name](/modules/get_sura_name.py)
+* [get quran page url by number](/modules/get_page.py)
+* [get islamic radio url by language](/modules/get_radios.py)
 
 ## Usage
 you can find examples [here](https://github.com/alfazzafashion/quran_suras/tree/main/modules)
@@ -142,5 +142,7 @@ print(radios)
   ]
 }
 ~~~
+
+[listen stream](live.mp3quran.net:9702) .
 
 ## Author: [Awiteb](mailto:Awiteb@hotmail.com)
